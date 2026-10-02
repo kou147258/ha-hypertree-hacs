@@ -3,11 +3,11 @@
     "step": {
       "user": {
         "title": "HA Hypertree 中文版",
-        "description": "This will add a Hypertree panel to your sidebar."
+        "description": "将在你的侧边栏中添加一个 Hypertree 面板。"
       }
     },
     "abort": {
-      "single_instance_allowed": "Already configured."
+      "single_instance_allowed": "已经配置过了。"
     }
   }
 }
