@@ -1,6 +1,6 @@
 {
   "domain": "ha_hypertree",
-  "name": "HA Hypertree",
+  "name": "HA Hypertree 中文版",
   "codeowners": [
     "@knowald"
   ],
@@ -13,5 +13,5 @@
   "integration_type": "service",
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/knowald/ha-hypertree/issues",
-  "version": "0.14.0"
+  "version": "0.15.0"
 }

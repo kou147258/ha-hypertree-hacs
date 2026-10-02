@@ -2,7 +2,7 @@
   "config": {
     "step": {
       "user": {
-        "title": "HA Hypertree",
+        "title": "HA Hypertree 中文版",
         "description": "This will add a Hypertree panel to your sidebar."
       }
     },
